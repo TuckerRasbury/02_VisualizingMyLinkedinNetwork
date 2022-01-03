@@ -6,4 +6,4 @@ As a budding data analytics professional, reading official and unofficial docume
 
 ##### Appendix
 
-* [Documentation courtesy Tavish Gobindram Software Engineer, "Visualizing My Linkedin Network" | Medium](https://towardsdatascience.com/visualizing-my-linkedin-network-c4b232ab2ad0)
+* [_"Visualizing My Linkedin Network"_ | Medium | Tavish Gobindram Software Engineer - Source documentation used to generate dataviz here](https://towardsdatascience.com/visualizing-my-linkedin-network-c4b232ab2ad0)
