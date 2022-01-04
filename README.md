@@ -11,9 +11,6 @@ As a budding data analytics professional, reading official and unofficial docume
 ## What roles do those in my network hold?
 ![](Visualizations/Where_do_those_in_my_network_work.png)
 
-## Potential Additional Reporting
-
-
 ##### Appendix
 
 * [_"Visualizing My Linkedin Network"_ | Medium | Tavish Gobindram Software Engineer](https://towardsdatascience.com/visualizing-my-linkedin-network-c4b232ab2ad0) - Source documentation used to generate dataviz here
