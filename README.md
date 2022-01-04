@@ -5,6 +5,9 @@ As a budding data analytics professional, reading official and unofficial docume
 ## Where do those in my network work?
 ![](Visualizations/What_kinds_of_roles_do_those_in_my_network_have.png)
 
+### Additional Granularity Enabled by Plotly Library
+![](Visualizations/Digging_deeper.png)
+
 ## What roles do those in my network hold?
 ![](Visualizations/Where_do_those_in_my_network_work.png)
 
