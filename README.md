@@ -41,12 +41,6 @@ pip install pandas plotly networkx pyvis nbformat
 jupyter notebook VisualizingMyLinkedinNetwork.ipynb
 ```
 
-### Option 3: Interactive Online (Binder)
-Click the badge below to run the notebook interactively online:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TuckerRasbury/02_VisualizingMyLinkedinNetwork/improve/best-practices?filepath=VisualizingMyLinkedinNetwork.ipynb) 
-
-
 ## 📈 Insights & Use Cases
 
 ### For Network Analysis
