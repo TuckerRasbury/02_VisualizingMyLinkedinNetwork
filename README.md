@@ -75,20 +75,6 @@ Rapidly identify decision-makers and influencers in your target functional areas
 - ✅ Interactive treemaps showing company and role distribution
 - ✅ Responsive Plotly visualizations for exploration
 
-## 🛠️ Technical Stack
-
-- **pandas**: Data manipulation and analysis
-- **plotly**: Interactive visualizations
-- **networkx**: Network analysis
-- **pyvis**: Interactive network graphs
-- **pathlib**: Cross-platform file handling
-- **jupyter**: Interactive notebook environment
-
-## 📚 References
-
-- Original inspiration: [_"Visualizing My Linkedin Network"_ | Medium | Tavish Gobindram Software Engineer](https://towardsdatascience.com/visualizing-my-linkedin-network-c4b232ab2ad0)
-- LinkedIn Data Privacy: [LinkedIn Connection Data Export Guide](https://www.linkedin.com/help/linkedin/answer/50191)
-
 ---
 
 ## 📖 Original Project Documentation
@@ -115,3 +101,17 @@ Finally, this view shifts our perspective a bit. Above, I sliced my data from th
 
 ### Additional Reporting Ideation
 Using the "Connected On" column and a bit of reformatting using pandas, it's possible to identify when I gained the most connections throughout my time using LinkedIn. From there, I could identify the why behind that spike in connections and use that information in growing my network in a meaningful way.
+
+## 🛠️ Technical Stack
+
+- **pandas**: Data manipulation and analysis
+- **plotly**: Interactive visualizations
+- **networkx**: Network analysis
+- **pyvis**: Interactive network graphs
+- **pathlib**: Cross-platform file handling
+- **jupyter**: Interactive notebook environment
+
+## 📚 References
+
+- Original inspiration: [_"Visualizing My Linkedin Network"_ | Medium | Tavish Gobindram Software Engineer](https://towardsdatascience.com/visualizing-my-linkedin-network-c4b232ab2ad0)
+- LinkedIn Data Privacy: [LinkedIn Connection Data Export Guide](https://www.linkedin.com/help/linkedin/answer/50191)
